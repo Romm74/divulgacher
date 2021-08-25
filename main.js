@@ -4,4 +4,4 @@
   });
 let films = 
     ["JOKER", "Titanic", "Harry Potter", "Star Wars", "Amélie Poulain", ""];
-let spoilfilm = ["Le joker est ennuyant", "Le bateau coule", "Yoda n'as plus de force", ""];
+let spoilfilm = ["Le joker est ennuyant", "Le bateau coule", "Yoda n'as plus de force", "Amélie ne fait pas de cheval"];
